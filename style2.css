@@ -103,12 +103,21 @@
 }
 #foto-1{
     height: 500px;
+    width: 250px;
 }
 #foto-2{
     height: 500px;
+    width: 250px;
 }
 #foto-3{
     height: 500px;
+    width: 250px;
+}
+#card-body{
+    border: 0px;
+}
+#botao-card{
+    color: color: rgb(218,165,32);
 }
     
 
