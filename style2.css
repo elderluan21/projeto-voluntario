@@ -1,0 +1,122 @@
+ #body{
+    font-family: Montserrat;
+    background-color: black;
+    font-style: rgb(218,165,32);
+    text
+   
+}
+#titulo-principal{
+     padding-left: 340px;}
+#sub-1{
+    padding-left: 250px;
+}
+#link-home{
+    color: rgb(218,165,32);
+}
+#link-link{
+    color: rgb(218,165,32);
+}
+#link-drop{
+    color:rgb(218,165,32);
+}
+#link-disabled{
+    color:rgb(218,165,32);
+}
+#imagem{
+    margin-left: 130px;
+    height: 320px;
+}
+#imagem2{
+   margin-left: 100px;
+   height: 260px;
+}
+#primeiro-paragrafo{
+   text-align: justify;
+   border-radius: 1px;
+   
+}
+#segundo-paragrafo{
+    text-align: justify;
+ 
+}
+#terceiro-paragrafo{
+   text-align: justify;
+  
+}
+#quarto-paragrafo{
+    margin-top: 30px;
+    text-align: justify;
+}
+#quinto-paragrafo{
+    text-align: justify;
+}
+#sexto-paragrafo{
+    text-align: justify;
+}
+#setimo-paragrafo{
+    text-align: justify;
+}
+#sub-visao{
+    margin-top: 70px;
+}
+#sub-objetivo{
+    margin-top: 30px;
+}
+#imagemleao{
+    width: 360px;
+    margin-top: 50px;
+}
+#conclusao{
+    text-align: center;
+}
+#oitavo-paragrafo{
+    text-align: justify;
+}
+#item-1{
+    background-color: black;
+    color: white;
+}
+#item-2{
+    background-color: black;
+    color: white;
+}
+#item-3{
+    background-color: black;
+    color: white;
+}
+#item-4{
+    background-color: black;
+    color: white;
+}
+#item-5{
+    background-color: black;
+    color: white;
+}
+#foto-teste1{
+    width:400px;
+    height: 370px;
+   
+}
+#foto-teste2{
+    margin-right: 200px;
+    width: 450px;
+    height: 600px;
+}
+#foto-teste3{
+    width: 380px;
+}
+#foto-teste4{
+    height: 500px;
+    width:: 300px;
+    
+}
+#foto-teste5{
+    width: 300px;
+    height: 250px;
+    margin: bottom 10000px
+}
+
+
+
+
+
