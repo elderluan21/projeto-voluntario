@@ -26,9 +26,10 @@
     margin-left: 130px;
     height: 320px;
 }
-#imagem2{
-   margin-left: 100px;
-   height: 260px;
+#segunda-foto{
+    margin-top: 50px;
+    margin-left: 120px;
+   
 }
 #primeiro-paragrafo{
    text-align: justify;
@@ -114,11 +115,12 @@
     width: 250px;
 }
 #card-body{
-    border: 0px;
+
 }
 #botao-card{
     color: color: rgb(218,165,32);
 }
+
     
 
 
