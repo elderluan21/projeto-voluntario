@@ -31,6 +31,9 @@
     margin-left: 120px;
    
 }
+#segunda-foto-dog{
+    
+}
 #primeiro-paragrafo{
    text-align: justify;
    border-radius: 1px;
@@ -44,8 +47,14 @@
    text-align: justify;
   
 }
+#sup-rotina{
+    margin-top: 150px;
+}
+#sub-visao{
+    margin-top: 150px;
+}
 #quarto-paragrafo{
-    margin-top: 30px;
+    margin-top: 20px;
     text-align: justify;
 }
 #quinto-paragrafo{
@@ -55,6 +64,7 @@
     text-align: justify;
 }
 #setimo-paragrafo{
+    margin-top: 50px;
     text-align: justify;
 }
 #sub-visao{
