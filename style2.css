@@ -32,7 +32,9 @@
    
 }
 #segunda-foto-dog{
-    
+    width: 320px;
+    height: 360px;
+    margin-left: 100px;
 }
 #primeiro-paragrafo{
    text-align: justify;
@@ -129,6 +131,9 @@
 }
 #botao-card{
     color: color: rgb(218,165,32);
+}
+#card{
+    border: 0px;
 }
 
     
